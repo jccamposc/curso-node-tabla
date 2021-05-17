@@ -1,0 +1,15 @@
+{
+  "name": "03-basesnode",
+  "version": "0.0.1",
+  "description": "Una simple tabla papu",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Carlos",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.0.1"
+  }
+}
